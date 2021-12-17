@@ -6,7 +6,8 @@
 \deftab720
 \pard\pardeftab720\sl380\partightenfactor0
 
-(https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)\
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+
 \
 \pard\pardeftab720\sl380\partightenfactor0
 
