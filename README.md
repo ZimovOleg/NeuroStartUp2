@@ -1,10 +1,4 @@
-{\rtf1\ansi\ansicpg1251\cocoartf1561\cocoasubrtf600
-{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Italic;}
-{\colortbl;\red255\green255\blue255;\red27\green31\blue35;}
-{\*\expandedcolortbl;;\cssrgb\c14118\c16078\c18431;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl380\partightenfactor0
+#NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
